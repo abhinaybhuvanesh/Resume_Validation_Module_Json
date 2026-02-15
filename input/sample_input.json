@@ -1,0 +1,70 @@
+{
+  "personal_info": {
+    "full_name": "Rahul Sharma",
+    "email": "rahul.sharma@email.com",
+    "phone": "+91-9876543210",
+    "location": "Hyderabad, India"
+  },
+  "education": [
+    {
+      "degree": "B.Tech in Computer Science",
+      "institution": "ABC Institute of Technology",
+      "start_date": "2019-08-01",
+      "end_date": "2023-05-30",
+      "cgpa": "8.4"
+    }
+  ],
+  "experience": [
+    {
+      "job_title": "Software Development Intern",
+      "company": "TechNova Solutions",
+      "start_date": "2022-06-01",
+      "end_date": "2022-12-30",
+      "description": "Worked on backend APIs using Python and MongoDB. Implemented authentication modules and improved database query performance."
+    },
+    {
+      "job_title": "Junior Developer",
+      "company": "Innovatech Pvt Ltd",
+      "start_date": "2023-06-01",
+      "end_date": "2024-06-01",
+      "description": "Developed REST APIs, integrated third-party services, and optimized application performance."
+    }
+  ],
+  "skills": [
+    "Python",
+    "Java",
+    "MongoDB",
+    "REST APIs",
+    "Data Structures",
+    "SQL"
+  ],
+  "projects": [
+    {
+      "title": "Resume Validation System",
+      "description": "Built a rule-based resume validation engine with JSON communication and weighted scoring.",
+      "technologies": ["Python", "MongoDB", "JSON"]
+    },
+    {
+      "title": "E-commerce Web Application",
+      "description": "Developed a full-stack web application with user authentication and payment integration.",
+      "technologies": ["React", "Node.js", "MongoDB"]
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Cloud Practitioner",
+      "issuer": "Amazon Web Services",
+      "issue_date": "2023-08-10",
+      "expiry_date": "2026-08-10",
+      "verification_url": "https://aws.amazon.com/verification"
+    },
+    {
+      "name": "MongoDB Developer Certification",
+      "issuer": "MongoDB Inc.",
+      "issue_date": "2022-11-15",
+      "expiry_date": "2025-11-15",
+      "verification_url": "https://www.mongodb.com/certification"
+    }
+  ]
+}
+
